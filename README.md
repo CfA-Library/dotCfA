@@ -1,9 +1,10 @@
 # dotCfA: Collaborating for Astronomy
 ## What is it?
-[description of event]   
+[Additional description of event]   
 ## When and Where?
 [insert schedule here]
-## Sign up
-[insert link to Google Form]
-## Check out the Wiki to add your skills to the participants list
-[insert link to wiki]
+#### Sign up and check out [the dotCfA Wiki](https://github.com/CfA-Library/dotCfA/wiki)   
+#### Add your skills to [the participants list](https://github.com/CfA-Library/dotCfA/wiki/Participants) 
+[insert link to Google Form]   
+
+
