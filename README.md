@@ -3,7 +3,7 @@
 [Additional description of event]   
 ## When and Where?
 [insert schedule here]
-#### Sign up [insert link to Google Form]
+#### Sign up: [http://bit.ly/dotCfA16](http://bit.ly/dotCfA16) 
 #### Check out [the dotCfA Wiki](https://github.com/CfA-Library/dotCfA/wiki)   
 #### Add your skills to [the participants list](https://github.com/CfA-Library/dotCfA/wiki/Participants) 
 
