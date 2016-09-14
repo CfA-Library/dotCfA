@@ -1,2 +1,1 @@
-# dotCfA
-dotCfA: Collaborating for Astronomy
+# dotCfA: Collaborating for Astronomy
