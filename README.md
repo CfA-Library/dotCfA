@@ -11,6 +11,11 @@ colleagues to bounce ideas off of. Great for:
     someone who already knows what you wish you did.
 
 ## When and Where?
+Wolbach Library   
+Harvard-Smithsonian Center for Astrophysics   
+60 Garden St.    
+Cambridge, MA 02138   
+
 * All-day "office hours" for questions about Python and Git if you're
 curious to learn about these increasingly popular tools. The CfA is home
 to some true experts who can offer guidance and opinions.
